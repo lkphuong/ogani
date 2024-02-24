@@ -32,9 +32,9 @@
 
   /*Shopee
     -----------------*/
-  // document.addEventListener("click", function () {
-  //   window.open("https://shope.ee/30PxEuMQ9e");
-  // });
+  document.addEventListener("click", function () {
+    window.open("https://shope.ee/30PxEuMQ9e");
+  });
 
   /*------------------
         Background Set
