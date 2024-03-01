@@ -33,7 +33,6 @@
   /*Shopee
     -----------------*/
   document.addEventListener("click", function () {
-    console.log("click");
     window.open("https://shope.ee/30PxEuMQ9e");
   });
 
